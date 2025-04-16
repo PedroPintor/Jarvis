@@ -19,7 +19,7 @@ Este é o início de um projeto maior, feito para ser testável, modular e exten
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/jarvis_0.1.git
+git clone https://github.com/PedroPintor/Jarvis.git
 cd jarvis_0.1
 
 python -m venv "nome diretorio"
